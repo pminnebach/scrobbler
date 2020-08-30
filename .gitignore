@@ -13,3 +13,6 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+# The thumbnail jpg is saved in the root folder where main.go is run.
+*.jpg
